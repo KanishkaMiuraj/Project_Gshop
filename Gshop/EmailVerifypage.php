@@ -36,7 +36,7 @@ if(isset($message)){
       <h3>Your Email Verified Successfully</h3>
     
       
-      <p><a href="Login.php" value="login now">Click here To Login</a></p>
+      <p><a href="Login.php" value="login now">Click Here To Login</a></p>
    </form>
 
 </section>
